@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&display=swap');
+body{
+    background: url("zyro-image.png") no-repeat;
+    background-position: center;
+    background-size: 1366px 888px;
+}
+#g{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 120px;
+    margin-top: 200px;
+    margin-left: 420px;
+    margin-right: 420px;
+    border-radius: 40px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'IBM Plex Mono', monospace;
+}
+img{
+    height: 60px;
+    width: 60px;
+}
+button{
+    border: none;
+    background-color: rgba(240, 248, 255, 0);
+}
